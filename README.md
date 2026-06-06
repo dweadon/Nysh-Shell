@@ -1,7 +1,11 @@
-# Nysh Shell
+<h1 align="center">Nysh Shell</h1>
+
+<p align="center">
 
 Nysh is a simple Unix-like shell written in C.  
 It allows basic command execution and custom built-in commands.
+</p># Nysh Shell
+
 
 ---
 
