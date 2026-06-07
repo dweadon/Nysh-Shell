@@ -1,6 +1,6 @@
 <h1 align="center">Nysh Shell</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Nysh-v0.02.0-green">
+  <img src="https://img.shields.io/badge/Nysh-v0.5.0-green">
 </p>
 <p align="center">
 Nysh is a simple Unix-like shell written in C.  
@@ -39,7 +39,7 @@ sos
 
 # Warning
 
-This shell is in early development (v0.01.0).  
+This shell is in early development (v0.05.0).  
 It is not stable and should not be used as a primary shell.
 
 ---
